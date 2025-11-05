@@ -1,6 +1,5 @@
 # Pedestrian Detection using Machine Learning
- 
- 🧠 Project Description
+
  
 This academic project, conducted at the École Nationale Supérieure d'Électricité et de Mécanique (Université de Lorraine), focuses on developing a pedestrian detection method from still images, with potential integration into an embedded vision system for autonomous vehicles. The project belongs to the academic module B8-10 — Artificial Intelligence, Data Analysis and Learning Methods at ENSEM.
 
